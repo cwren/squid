@@ -54,8 +54,8 @@ the animation.
 Then we just multiply that by itself until we find the identity matrix
 again, and we finally get there after 2064 steps.
 
-Te animation has 75 frames played with a 40ms delay, so if you want to
-see the quid return home, you'll need to watch for a little over 100
+The animation has 75 frames played with a 40ms delay, so if you want to
+see the squid return home, you'll need to watch for a little over 100
 minutes.
 
 [Go code for the curious](https://github.com/cwren/squid)
