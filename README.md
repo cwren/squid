@@ -1,6 +1,6 @@
 https://plus.google.com/+ChrisWren/posts/RLh4ZjD75Qe
 
-I enjoyed reading +Yonatan Zunger's post[1] about the jellyfish (they
+I enjoyed reading +Yonatan Zunger's post[1] about the jellyfish[2] (they
 look like squid to me) and yet I was left with a desire to know how
 long it would actually take for the squid to all return back to the
 place they started.
@@ -61,3 +61,4 @@ I have an animation of the whole 2064 step cycle but g+ won't accept
 it for some reason, so it's here instead: http://imgur.com/4CzDl2j 
 
 [1] https://plus.google.com/+YonatanZunger/posts/4urrnW3sZsi﻿
+[2] http://wavegrower.tumblr.com/post/126854522925/currents-if-i-had-the-time-i-would-check-if-one-of﻿
