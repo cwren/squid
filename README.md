@@ -1,9 +1,12 @@
 https://plus.google.com/+ChrisWren/posts/RLh4ZjD75Qe
 
-I enjoyed reading +Yonatan Zunger's post[1] about the jellyfish[2] (they
-look like squid to me) and yet I was left with a desire to know how
-long it would actually take for the squid to all return back to the
-place they started.
+I enjoyed reading +Yonatan Zunger's
+[post](https://plus.google.com/+YonatanZunger/posts/4urrnW3sZsi) about
+the
+[jellyfish](http://wavegrower.tumblr.com/post/126854522925/currents-if-i-had-the-time-i-would-check-if-one-of)
+(they look like squid to me) and yet I was left with a desire to know
+how long it would actually take for the squid to all return back to
+the place they started.
 
 If we number the squid 0-255 then we can describe the state of the
 image with a 256 dimensional vector.  The squid start out with number
@@ -55,10 +58,7 @@ Te animation has 75 frames played with a 40ms delay, so if you want to
 see the quid return home, you'll need to watch for a little over 100
 minutes.
 
-Go code for the curious: https://github.com/cwren/squid
+[Go code for the curious](https://github.com/cwren/squid)
 
 I have an animation of the whole 2064 step cycle but g+ won't accept
-it for some reason, so it's here instead: http://imgur.com/4CzDl2j 
-
-[1] https://plus.google.com/+YonatanZunger/posts/4urrnW3sZsi﻿
-[2] http://wavegrower.tumblr.com/post/126854522925/currents-if-i-had-the-time-i-would-check-if-one-of﻿
+it for some reason, so it's [here](http://imgur.com/4CzDl2j) instead.
