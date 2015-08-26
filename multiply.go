@@ -21,7 +21,7 @@ import (
 
 var aFile = flag.String("a", "A.txt", "left input matrix")
 var bFile = flag.String("b", "", "right input matrix")
-var output = flag.String("o", "step%06d.png", "output file pattern")
+var output = flag.String("o", "", "output file pattern")
 
 func main() {
 	flag.Parse()
@@ -97,6 +97,9 @@ func readMatrix(filename *string) ([]int, error) {
 }
 
 func renderOut(pattern *string, step int, p []int) {
+	if *pattern == "" {
+		return
+	}
 	filename := fmt.Sprintf(*pattern, step)
 
 	writer, err := os.Create(filename)
